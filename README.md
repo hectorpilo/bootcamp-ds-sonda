@@ -58,7 +58,7 @@ Starting **July 22**, all notebook comments will be written **exclusively in Eng
 
 - Completed **3 final exam attempts**, with a perfect score (100/100) on the third.  
 - Instructor’s comment: *"It would have been better to include the models in the pipelines, but overall the work is correct. Congratulations."*  
-- The final prediction file `submissions.csv` was uploaded and achieved a score of **0.69856** on the platform.
+- The final prediction file `submissions.csv` for titanic challenge was uploaded and achieved a score of **0.69856** on the Kaggle platform.
 
 ---
 
